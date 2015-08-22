@@ -8,11 +8,11 @@ python script which clones all repos of user
 
 2) Install ConfigParser
 
-    `sudo pipi install ConfigParser`
+    `sudo pip install ConfigParser`
 
 3) Copy all contents of config to config.ini
 
-     `cp config config.ini`
+    `cp config config.ini`
 
 Enter your github username and password without inverted commas.
 
