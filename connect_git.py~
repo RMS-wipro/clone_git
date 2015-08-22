@@ -8,5 +8,5 @@ def g_pass():
  return usr,pwd
 
 def connect():
- usr,pwd = g_pass()
+ usr,pwd = getPass()
  return Github(usr,pwd)
